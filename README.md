@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Wilson Junior 👋
 
 - 📚 Estudante de Ciência da Computação  
-- 👾 Praticando e aprendendo com projetos pessoais  
+- 👾 Praticando e aprendendo com projetos   
 - 📨 Contato: wilson.s.juniorcs@gmail.com  
 - 😁 Pronomes: ele/dele
 
